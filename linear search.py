@@ -1,4 +1,5 @@
-#linear search
+'''linear search
+ TIME COMPLEXITY:BEST:O(1) ,WORST:O(N)'''
 item=int(input())
 l=[10,23,20,45,89]
 for i in l:
